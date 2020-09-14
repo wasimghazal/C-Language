@@ -1,0 +1,21 @@
+/***************************************************\
+| Assignmet#2                                       |
+| 			                	    |
+| Author:Wasim G Aswad		           	    |
+| Student ID: 17193559                              |
+| Last Change:15/11/2019    			    |
+|					            |
+|###################################################|
+|                  # Explanation #                  |
+|                  ###############                  |
+|This program performs some calculations for two    |
+|and three dimensional calculate such as 	    |
+|(area , perimeter and volume) of:		    |
+|1. Square , 2. Rectangle , 3. Circle, 4. Triangle  |
+|5. Parallelogram, 6. Cube, 7. Rectangular Prism    |
+|8. Sphere and 9. Right Circular Cylinder.          |
+|by two ways enter a user or a default number of    |
+|values	where it is 5,00.			    |
+\***************************************************/
+// to compile we use 
+// gcc -Wall -ggdb -std=c11 -o Assignment#2 Assignment#2.c ThreeDimensional.c TwoDimensional.c
